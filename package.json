@@ -1,0 +1,14 @@
+{
+  "name": "nodebases",
+  "version": "1.0.0",
+  "description": "Esta aplicación genera tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. William Calle Quintero",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.3.0"
+  }
+}
